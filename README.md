@@ -1,4 +1,4 @@
-# davidstewartcv
+# davidstewart-cv
 
 A flexible, reponsive CV for the tech people. Why stick to print when you can show everyone your skills online, looking good on any device!?
 
