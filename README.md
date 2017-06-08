@@ -8,9 +8,11 @@ Pull this project, amend your details and tell the world about yourself.
 
 ### Prerequisites
 
-No extra libraries, just plain old html and css.
+No extra libraries, just plain old html and css (Bulma)
 
 ## Built With
+
+Bulma.
 
 ## Authors
 
