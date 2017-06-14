@@ -12,11 +12,11 @@ No extra libraries, just plain old html and css (Bulma)
 
 ## Built With
 
-Bulma.
+[http://bulma.io/](Bulma) and Font Awesome [http://fontawesome.io/](Font Awesome)
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **David Stewart**
 
 ## License
 
