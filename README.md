@@ -8,15 +8,16 @@ Pull this project, amend your details and tell the world about yourself.
 
 ### Prerequisites
 
-No extra libraries, just plain old html and css (Bulma)
+Plain old HTML, Bulma and Font Awesome
 
 ## Built With
 
-[http://bulma.io/](Bulma) and Font Awesome [http://fontawesome.io/](Font Awesome)
+* [Bulma](http://bulma.io) 
+* [Font Awesome](http://fontawesome.io)
 
 ## Authors
 
-* **David Stewart**
+* David Stewart
 
 ## License
 
